@@ -6,3 +6,4 @@ these are a collection of mods revolving around XOL in various stages stages
   https://github.com/ruiqimao/VoronStuff/blob/main/Xol_PCB/STLs/Strain_Relief_Sherpa_Mini.stl
   https://github.com/KayosMaker/CANboard_Mounts
   made in mind to fit the G2SA but will fit the orbiter as they are the same profiles 
+note for the vitalli3d ultralight carriage youll only use the 2 standoffs for the motor and a screw saver in the back if i havent already raised the heatsert hole 
